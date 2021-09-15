@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.bg-maroon{
+    background:#800000 !important;
+    color:white;
+}
+.news{
+    position: relative;
+    color:black;
+    /* left:1em; */
+    right:2rem;
+    bottom: 0.2em;
+}
+.nav-item h1{
+    font-family: 'Allison', cursive;
+    font-size: 8rem !important;
+}
+    .nav-item h4{
+        font-family: 'Poppins', sans-serif;
+        text-transform: uppercase;
+        position: relative;
+        color:rgb(236, 248, 236);
+        left:4em;
+        font-size: 1.1rem;
+    }
+    .btn{
+        border-radius:0px !important;
+        border:none !important;
+    }
+    .btn-primary:hover {
+        color: #fff;
+        background:#800000 !important;
+        background:#800000 !important;
+    }
+    .btn-primary{
+        background:#800000 !important;
+        color:#fff;
+
+    }
